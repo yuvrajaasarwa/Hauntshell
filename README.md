@@ -2,7 +2,7 @@
 
 > *"You may close the shell, mortal, but you can never leave the machine..."*
 
-[![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-2024%20%7C%20Ghost%20in%20the%20Machine-ff7900?style=for-the-badge&logo=hacktoberfest&logoColor=white)](https://hacktoberfest.com/)
+[![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-2026%20%7C%20Ghost%20in%20the%20Machine-ff7900?style=for-the-badge&logo=hacktoberfest&logoColor=white)](https://hacktoberfest.com/)
 [![Local AI](https://img.shields.io/badge/Local%20AI-Ollama%20%E2%80%A2%20Llama%203.2-9400D3?style=for-the-badge&logo=meta&logoColor=white)](https://ollama.com/library/llama3.2)
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![Privacy First](https://img.shields.io/badge/Privacy-100%25%20Offline-green?style=for-the-badge&logo=shield)](https://github.com)
