@@ -59,7 +59,7 @@ ollama pull llama3.2:3b
 Clone this repository and set up your virtual environment:
 
 ```bash
-git clone https://github.com/your-username/Hauntshell.git
+git clone https://github.com/yuvrajaasarwa/Hauntshell.git
 cd Hauntshell
 
 # Create and activate virtual environment
@@ -201,3 +201,4 @@ See [`CONTRIBUTING.md`](CONTRIBUTING.md) to get started.
 ## 📜 License
 
 MIT License. Crafted with dark magic for Hacktoberfest 2024 / 2026.
+

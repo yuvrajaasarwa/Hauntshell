@@ -23,3 +23,4 @@ Welcome to **HauntShell**! We are thrilled to celebrate Hacktoberfest with open-
 - **Sound Effects**: Terminal beep or audio whisper hooks (using standard cross-platform libraries).
 - **Persona Swapping**: CLI flag `--persona [victorian|cyberpunk|elderly_dev]`.
 - **Zsh / Fish hooks**: Integration scripts so every shell execution invokes HauntShell seamlessly.
+
